@@ -29,9 +29,9 @@
 
 def naming_system
   hash = 
-  {:kingdom => 
-  {:phylum => 
-  {:class => 
+  {:label => "Kingdom", :sub_category => 
+  {:label => "Phylum", :sub_category => 
+  {:label => "Class", :sub_category => 
   {:label => "Order", :sub_category =>
   {:family =>
   {:genus => 

@@ -28,7 +28,7 @@
 # }
 
 def naming_system
-  naming_system = 
+  hash = 
   {:kingdom => 
   {:phylum => 
   {:class => 

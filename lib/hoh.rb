@@ -32,7 +32,7 @@ def naming_system
   {:kingdom => 
   {:phylum => 
   {:class => 
-  {:order =>
+  {:label => "Order", :sub_category =>
   {:family =>
   {:genus => 
   {:species => {}}}}}}}}
